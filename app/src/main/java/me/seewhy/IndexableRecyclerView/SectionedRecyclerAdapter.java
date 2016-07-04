@@ -16,7 +16,7 @@ import java.util.Comparator;
 import java.util.List;
 
 public class SectionedRecyclerAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
-    public static final String TAG = "SectionedRecyclerAdapter";
+    public static final String TAG = "aaaaaaaa";
     private static final int SECTION_TYPE = 0;
 
     private boolean mValid = true;
