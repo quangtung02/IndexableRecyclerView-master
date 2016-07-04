@@ -14,6 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class LetterBar extends View {
+
     public static final int SECTION_SIZE = 27;
 
     private int mTextColor = Color.RED;
