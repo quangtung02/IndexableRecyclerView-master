@@ -1,8 +1,5 @@
 package me.seewhy.IndexableRecyclerView;
 
-/**
- * Created by BG204119 on 2015/12/30.
- */
 public class ItemModel implements Comparable<ItemModel>{
     String name;
     String url;
