@@ -19,7 +19,7 @@ import java.util.List;
  * 可以为recyclerview设置section，参考 https://gist.github.com/gabrielemariotti/4c189fb1124df4556058/revisions
  */
 public class SectionedRecyclerAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
-    public static final String TAG = "SectionedRecyclerAdapter";
+    public static final String TAG = "aaaaaaaa";
     private static final int SECTION_TYPE = 0;
 
     private boolean mValid = true;
