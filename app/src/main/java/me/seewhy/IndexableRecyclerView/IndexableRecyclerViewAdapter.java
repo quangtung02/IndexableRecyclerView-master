@@ -47,6 +47,8 @@ public class IndexableRecyclerViewAdapter extends RecyclerView.Adapter implement
         calculateSectionPosition();
     }
 
+
+
     private void calculateSectionPosition() {
         Set<String> keySet = mSectionedHashMap.keySet();
         String strings[] = new String[keySet.size()];
