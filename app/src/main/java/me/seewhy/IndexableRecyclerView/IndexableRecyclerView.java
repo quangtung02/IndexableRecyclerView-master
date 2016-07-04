@@ -10,10 +10,7 @@ import android.view.View;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-/**
- * Author: seewhy
- * Date: 2016/1/14
- */
+
 public class IndexableRecyclerView extends RelativeLayout {
     public static final int DEFAULT_COLUMN_NUMBER = 3;
     private RecyclerView mRecyclerView;
