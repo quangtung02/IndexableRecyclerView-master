@@ -29,6 +29,9 @@ public class SectionedRecyclerAdapter extends RecyclerView.Adapter<RecyclerView.
     private SparseArray<Integer> mKeyPositionMap = new SparseArray<>();
 
 
+
+
+
     @SuppressLint("LongLogTag")
     public SectionedRecyclerAdapter(Context context, int sectionResourceId, int textResourceId, RecyclerView.Adapter baseAdapter) {
 
